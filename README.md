@@ -14,11 +14,10 @@ Suite du repo [java-basics](https://github.com/Matfen2/java-basics), réalisés 
 |---|------------|----------|----------|
 | 12a | [Person.java](./Person.java) | Personne | Classe, constructeur, méthode `sePresenter()` |
 | 12b | [Rectangle.java](./Rectangle.java) | Rectangle | `surface()`, `perimetre()`, `toString()` |
-| 13 | [Vehicule.java](./Vehicule.java) · [Voiture.java](./Voiture.java) · [Moto.java](./Moto.java) · [testVehicule.java](./testVehicule.java) | Véhicules | Héritage (`extends`), `super`, `afficher()` |
-| 14 | [Especes.java](./Especes.java) | Employés | Polymorphisme, `@Override`, `calculerPrime()` |
-| 15 | [Formes.java](./Formes.java) · [Cercle.java](./Cercle.java) · [Rectangle.java](./Rectangle.java) · [Triangle.java](./Triangle.java) · [testFormes.java](./testFormes.java) | Formes géométriques | Classe abstraite, tableau polymorphe `Forme[]` |
-| 16 | [Payment.java](./Payment.java) · [CarteBancaire.java](./CarteBancaire.java) · [Cheque.java](./Cheque.java) · [Especes.java](./Especes.java) · [testPayment.java](./testPayment.java) | Paiements | Héritage, tableau mixte, `payer()` |
-| 17 | [Animals.java](./Animals.java) · [Chien.java](./Chien.java) · [Aigle.java](./Aigle.java) · [Canard.java](./Canard.java) · [testAnimals.java](./testAnimals.java) | Système d'animaux | Interfaces multiples (`implements`), `instanceof`, cast |
+| 13 | [Vehicule.java](./testVehicule.java) · [Voiture.java](./Voiture.java) · [Moto.java](./Moto.java) · [testVehicule.java](./testVehicule.java) | Véhicules | Héritage (`extends`), `super`, `afficher()` |
+| 14 | [Formes.java](./testFormes.java) · [Cercle.java](./Cercle.java) · [Rectangle.java](./Rectangle.java) · [Triangle.java](./Triangle.java) · [testFormes.java](./testFormes.java) | Formes géométriques | Classe abstraite, tableau polymorphe `Forme[]` |
+| 15 | [Payment.java](./testPayment.java) · [CarteBancaire.java](./CarteBancaire.java) · [Cheque.java](./Cheque.java) · [Especes.java](./Especes.java) · [testPayment.java](./testPayment.java) | Paiements | Héritage, tableau mixte, `payer()` |
+| 16 | [Animals.java](./testAnimals.java) · [Chien.java](./Chien.java) · [Aigle.java](./Aigle.java) · [Canard.java](./Canard.java) · [testAnimals.java](./testAnimals.java) | Système d'animaux | Interfaces multiples (`implements`), `instanceof`, cast |
 
 ---
 
